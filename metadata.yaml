@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '43365'
     url: http://www.gutenberg.org/2009/agents/43365
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45578#Tracks-and-Tracking
 gutenberg_issued: '2014-05-04'
 gutenberg_type: Text
 identifiers:
