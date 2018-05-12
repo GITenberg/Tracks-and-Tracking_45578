@@ -1,0 +1,25 @@
+_repo: Tracks-and-Tracking_45578
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45578-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Brunner, Josef
+    gutenberg_agent_id: '43365'
+    url: http://www.gutenberg.org/2009/agents/43365
+description: ''
+gutenberg_issued: '2014-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45578'
+  lccn: 09029439
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SK'
+- !lcsh 'Hunting'
+title: Tracks and Tracking
+url: http://www.gutenberg.org/ebooks/45578
